@@ -1,0 +1,43 @@
+body{
+	padding: 0%;
+	margin: 0%
+}
+
+::-webkit-scrollbar{
+    background-color: #111827;
+    width: 7px;
+    height: 3px;
+
+}
+
+
+::-webkit-scrollbar-thumb{
+    background-color: #f87171;
+    border-radius: 100px;
+}
+
+@font-face {
+    font-family: f1;
+    src: url(/assets/font/font.ttf);
+}
+
+.f1{
+    font-family: f1;
+}
+
+input {
+    outline: none;
+}
+
+.image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.image button{
+    display: none;
+}
+.image:hover button{
+    display: flex;
+}
