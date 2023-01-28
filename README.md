@@ -1,6 +1,6 @@
 
 # 🐈 My Cat
-#### The app is called "mycat 🐈❤️", it's a desktop app that allows you to search for images on Google by typing a text in the input field, and then you can save and even download the images 💻. 💻.
+#### The app is called "mycat 🐈❤️", it's a desktop app that allows you to search for images on Google by typing a text in the input field, and then you can save and even download the images 💻. 
 
 ![enter image description here](https://github.com/kiraaziz/myCat/raw/main/screenshot/search.PNG?raw=true)
 
